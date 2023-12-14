@@ -6,6 +6,23 @@ license = "GPL-3.0-only"
 authors = ["TopDevPros <agelrenorenardo@gmail.com>"]
 readme = "README.md"
 repository = "https://github.com/yisuschrist/safecopy"
+keywords = ["rsync", "file-copy"]
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: End Users/Desktop",
+    "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
+    "Operating System :: POSIX :: Linux",
+    "Operating System :: Microsoft :: Windows",
+    "Operating System :: MacOS :: MacOS X",
+    "Programming Language :: Python :: 3.5",
+    "Programming Language :: Python :: 3.6",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Topic :: System :: Filesystems",
+]
 
 [tool.poetry.dependencies]
 python = ">3.9"
