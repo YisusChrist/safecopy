@@ -5,8 +5,8 @@
     When you install "safecopy" from PyPI, all the dependencies, including the
     client side, are automatically installed.
 
-    Copyright 2018-2023 safeapps
-    Last modified: 2023-05-15
+    Copyright 2018-2023 TopDevPros
+    Last modified: 2023-10-01
 '''
 
 import argparse
