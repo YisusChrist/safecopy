@@ -28,9 +28,10 @@ classifiers = [
 python = ">3.9"
 safelog = "^1.8.3"
 solidlibs = "^2.6.9"
+pyrsync2 = {git = "https://github.com/YisusChrist/pyrsync"}
 
 [tool.poetry.scripts]
-safecopy = "safecopy.__main__:main"
+safecopy = "src.safecopy.__main__:main"
 
 [build-system]
 requires = ["poetry-core"]
