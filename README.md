@@ -50,7 +50,7 @@ You can also install `Safecopy` from source.
 3. Install it with poetry:
 
    ```sh
-   poetry install
+   poetry install --only main
    ```
 
 # How it Works
